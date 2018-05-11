@@ -79,6 +79,7 @@
   position: fixed;
   top: 0;
   width: 100%;
+  max-width: 7.5rem;
   z-index: 999;
   background: white;
 }
